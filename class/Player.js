@@ -15,7 +15,7 @@ class Player {
         this.heightJump = 100;
         this.gravity = 0.5;
     }
-
+    
     //kinematic equation physic
     // height jump = vi ^ 2 / (2 * gravitasi)
     // vi = sqrt(2 * g * h)
